@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <string name="intro2_texto2">Categorizando seus lançamentos e vendo o\n destino de cada centavo</string>
+    <string name="intro2_texto1">Saiba para onde está indo seu dinheiro</string>
+    <string name="intro3_texto1">Nunca mais esqueça de\n pagar uma conta</string>
+    <string name="intro3_texto2">Receba alertas quando quiser</string>
+    <string name="intro4_texto1">Tudo organizado, no\n celular ou computador</string>
+    <string name="intro4_texto2">Use no seu smartphone e acessando o\n Organizze pelo site</string>
+    <string name="intro_cadastro_texto1">Crie sua conta grátis</string>
+    <string name="intro_cadastro_texto2">Junte-se a mais de meio milhão\n de pessoas e comece já</string>
+    <string name="intro_cadastro_button">cadastre-se</string>
+    <string name="intro_cadastro_texto3">Já tenho conta</string>
+    <string name="cadastro_texto1">Crie sua conta grátis</string>
+    <string name="cadastro_button">Cadastrar</string>
+    <string name="cadastro_texto2">Termos de uso</string>
+    <string name="login_texto">Acesse sua conta</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_nome">Nome</string>
+    <string name="login_button">Entrar</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="hint_data">Ex: 19/10/2019</string>
+    <string name="hint_categoria">ex: salário</string>
+    <string name="hint_descricao">ex: salário mensal</string>
+    <string name="hint_dinheiro">R$ 00.00</string>
+    <string name="principal_carregando">Carregando...</string>
+    <string name="principal_valor">R$ 0</string>
+    <string name="principal_saldo">saldo geral</string>
+</resources>
