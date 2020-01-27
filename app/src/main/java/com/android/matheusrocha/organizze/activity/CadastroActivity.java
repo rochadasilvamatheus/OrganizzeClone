@@ -99,7 +99,7 @@ public class CadastroActivity extends AppCompatActivity {
                     }catch ( FirebaseAuthUserCollisionException e) {
                         excecao = "Esta conta já foi cadastrada";
                     }catch (Exception e) {
-                        excecao = "Erro ao cadastrar uusário " + e.getMessage();
+                        excecao = "Erro ao cadastrar usuário " + e.getMessage();
                         e.printStackTrace();
                     }
 
