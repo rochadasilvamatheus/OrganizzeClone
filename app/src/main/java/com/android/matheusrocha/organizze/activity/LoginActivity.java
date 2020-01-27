@@ -77,7 +77,7 @@ public class LoginActivity extends AppCompatActivity {
                             }catch (FirebaseAuthInvalidUserException e) {
                                 excecao = "Usuário não está cadastrado.";
                             }catch (FirebaseAuthInvalidCredentialsException e){
-                                excecao = "E-mail e senha não correspondem a um uusário cadastrado.";
+                                excecao = "E-mail e senha não correspondem a um usuário cadastrado.";
                             } catch (Exception e){
                                 excecao = "Erro ao logar" + e.getMessage();
                                 e.printStackTrace();
